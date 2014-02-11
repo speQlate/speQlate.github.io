@@ -863,8 +863,10 @@
 
 	.wrapper
 	{
-		background-image: url('images/bg.png');
+		background-color:skyblue;
+		/*background-image: url('images/bg.png');
 		box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1);
+		*/
 	}
 
 	.wrapper-first
@@ -875,18 +877,22 @@
 	.wrapper-style1
 	{
 		background-image: none;
-		background-color: #fff;
+		background-color: #74c2e1;
+		background-color:white;
 	}
 	
 	.wrapper-style2
 	{
-		background-color: #fafafa;
+		background-color: #0191C8;
+		background-color: #74c2e1;
 		text-shadow: 1px 1px 0px #fff;
 	}
 	
 	.wrapper-style3
 	{
-		background-color: #f4f4f4;
+		background-color: #0191C8;
+		background-color:#99cc99;
+		
 		text-shadow: 1px 1px 0px #fff;
 	}
 
