@@ -179,6 +179,7 @@
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 2em;
+		line-height:normal;
 	}
 	
 	section,
@@ -882,17 +883,15 @@
 	}
 	
 	.wrapper-style2
-	{
+	{		
 		background-color: #0191C8;
-		background-color: #74c2e1;
 		text-shadow: 1px 1px 0px #fff;
 	}
 	
 	.wrapper-style3
 	{
-		background-color: #0191C8;
-		background-color:#99cc99;
-		
+		background-color: #2F9EC8;
+		background-color: #74c2e1;		
 		text-shadow: 1px 1px 0px #fff;
 	}
 
